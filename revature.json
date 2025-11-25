@@ -2,7 +2,7 @@
   "type": "java",
   "testFiles": [
     {
-      "path": "UpdateARecordTest.java",
+      "path": "src/test/java/UpdateARecordTest.java",
       "testCases": [
         {
           "methodName": "problem1Test",
